@@ -1,5 +1,5 @@
-# H_2 on Cu
+# H<sub>2</sub> on Cu
 
-Scripts for calculating sticking probabilities of H_2 dissociative adsorption on Cu surfaces
+Scripts for calculating sticking probabilities of H<sub>2</sub> dissociative adsorption on Cu surfaces
 
 
